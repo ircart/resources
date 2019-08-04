@@ -199,5 +199,6 @@ UTF-8 is enabled by default on Weechat.
 | Channel | Network |
 | ------- | ------- |
 | **##ascii** | [Freenode](https://freenode.net/) |
+| **#ascii** | [EFNet](http://efnet.org/) |
 | **#mircart** | [EFNet](http://efnet.org/) |
 | **#scroll** | [SuperNETs](https://supernets.org/) |
