@@ -155,10 +155,11 @@ UTF-8 is enabled by default on Weechat.
 #### Convert
 | Name | Description |
 | ---- | ----------- |
-| [a2m]() | Convert ANSI art to IRC art |
-| [p2u]() | Convertt images to ANSI/IRC art |
+| [a2m](https://git.trollforge.org/a2m/) | Convert ANSI art to IRC art |
+| [p2u](https://git.trollforge.org/p2u/) | Convertt images to ANSI/IRC art |
 | [irc2html](https://ircart.github.io/irc2html/) | Convert IRC art to HTML |
 | [img2term](https://github.com/wwared/img2term) | Output images in your terminal |
+| [RuinIRC99](https://ruinirc99.firebaseapp.com/) | Convert images to IRC art from your browser |
 
 #### Drawing
 ###### Software
@@ -179,9 +180,10 @@ UTF-8 is enabled by default on Weechat.
 #### Other
 | Name | Description |
 | ---- | ----------- |
+| [Limnoria ASCII Plugins](https://github.com/oddluck/limnoria-plugins/tree/master/ASCII) | ASCII plugins for [Limnoria](https://github.com/ProgVal/Limnoria) |
 | [MiRCARTools](https://github.com/lalbornoz/MiRCARTools) | IRC art editor & tools |
 | [Scroll](https://github.com/ircart/scroll) | Very functional IRC bot to play art & more |
-| [ASCII Limnoria Plugins](https://github.com/oddluck/limnoria-plugins/tree/master/ASCII) | ASCII plugins for [Limnoria](https://github.com/ProgVal/Limnoria) |
+| [TDFiglet](https://git.trollforge.org/tdfiglet/) | Convert text to [TheDraw](https://www.roysac.com/thedrawfonts-tdf.html) ANSI fonts |
 
 ***
 
