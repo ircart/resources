@@ -180,6 +180,7 @@ UTF-8 is enabled by default on Weechat.
 #### Other
 | Name | Description |
 | ---- | ----------- |
+| [UniColExport](https://github.com/klopsi/unicolexport) | Unicode block-character graphic exporter for [GIMP](https://www.gimp.org/) |
 | [Limnoria ASCII Plugins](https://github.com/oddluck/limnoria-plugins/tree/master/ASCII) | ASCII plugins for [Limnoria](https://github.com/ProgVal/Limnoria) |
 | [MiRCARTools](https://github.com/lalbornoz/MiRCARTools) | IRC art editor & tools |
 | [Scroll](https://github.com/ircart/scroll) | Very functional IRC bot to play art & more |
