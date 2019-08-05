@@ -175,6 +175,7 @@ UTF-8 is enabled by default on Weechat.
 | ---- | ----------- |
 | [asciiblaster](https://asdf.us/asciiblaster/) | Draw IRC/ANSI art from your browser |
 | [asciimaker](https://ircart.github.io/asciimaker/)| Draw IRC art from your browser |
+| [ansiedit](https://github.com/andyherbert/ansiedit) | Network-enabled web based ANSi art application |
 | [bashfill](https://max.io/bash.html)| Draw art for your terminal |
 
 #### Other
