@@ -156,7 +156,7 @@ UTF-8 is enabled by default on Weechat.
 | Name | Description |
 | ---- | ----------- |
 | [a2m](https://git.trollforge.org/a2m/) | Convert ANSI art to IRC art |
-| [p2u](https://git.trollforge.org/p2u/) | Convertt images to ANSI/IRC art |
+| [p2u](https://git.trollforge.org/p2u/) | Convert images to ANSI/IRC art |
 | [irc2html](https://ircart.github.io/irc2html/) | Convert IRC art to HTML |
 | [img2term](https://github.com/wwared/img2term) | Output images in your terminal |
 | [RuinIRC99](https://ruinirc99.firebaseapp.com/) | Convert images to IRC art from your browser |
@@ -169,10 +169,12 @@ UTF-8 is enabled by default on Weechat.
 | [asciipumper](https://github.com/ircart/asciipumper) | MS-Paint style program to draw IRC art *(archived)* |
 | [IRC-Paint](https://github.com/wwared/IRC-Paint) | MS-Paint style program to draw IRC art *(archived)* |
 | [PabloDraw](http://picoe.ca/products/pablodraw/) | Old school ANSI art drawing tool |
+| [Roar](https://github.com/lalbornoz/roar) | Editor & Tools |
 
 ###### Web Based
 | Name | Description |
 | ---- | ----------- |
+| [ASC_Paint](https://asc-paint.glitch.me/) | Draw ANSI art from your browser |
 | [asciiblaster](https://asdf.us/asciiblaster/) | Draw IRC/ANSI art from your browser |
 | [asciimaker](https://ircart.github.io/asciimaker/)| Draw IRC art from your browser |
 | [ansiedit](https://github.com/andyherbert/ansiedit) | Network-enabled web based ANSi art application |
