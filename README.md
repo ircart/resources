@@ -38,8 +38,6 @@ export LANGUAGE=en_US.UTF-8
 
 Now just run `source ~/.bashrc` to make the changes take affect.
 
-If you are using [GNU screen](https://www.gnu.org/software/screen/), make sure that `defutf8 on` is in your ~/.screenrc file.
-
 #### Client
 <details>
    <summary>IRSSI</summary>
@@ -65,45 +63,6 @@ If you are using [GNU screen](https://www.gnu.org/software/screen/), make sure t
 ```
 /network add -cmdmax 0 -cmdspeed 0msec <network_name>
 ```
-</details>
-
-<details>
-   <summary>HexChat/xChat</summary>
-  
-##### UTF-8
-Edit your network and change "Character set" to "UTF-8 (Unicode)" for all of your networks.
-
-##### Font
-Navigate to Settings->Preferences->Interface->Text box and set the font to monospace normal size 9.
-
-##### Colors
-Locate your colors.conf file in either the AppData (Windows) or ~/.xchat2 (Linux) directory and replace the first 16 lines with the follow:
-```
-color_0 = ffff ffff ffff
-color_1 = 0000 0000 0000
-color_2 = 0000 0000 7f7f
-color_3 = 0000 9393 0000
-color_4 = ffff 0000 0000
-color_5 = 7f7f 0000 0000
-color_6 = 9c9c 0000 9c9c
-color_7 = fcfc 7f7f 0000
-color_8 = ffff ffff 0000
-color_9 = 0101 fcfc 0000
-color_10 = 0000 9393 9393
-color_11 = 0101 ffff ffff
-color_12 = 0000 0000 fcfc
-color_13 = ffff 0000 ffff
-color_14 = 7f7f 7f7f 7f7f
-color_15 = d2d2 d2d2 d2d2
-```
-
-##### Flooding
-```
-/set net_throttle 0
-```
-
-#####
-
 </details>
 
 <details>
@@ -133,6 +92,11 @@ UTF-8 is enabled by default on Weechat.
 ### Resources
 #### Art Packs
 
+###### ASCII Fart Packs
+| Pack | Description |
+| ---- | ----------- |
+| [ASCII Art Farts](http://www.asciiartfarts.com) | Big collection of shitty ASCII only art |
+
 ###### ANSI Art Packs
 | Pack | Description |
 | ---- | ----------- |
@@ -145,7 +109,7 @@ UTF-8 is enabled by default on Weechat.
 | Pack | Description |
 | ---- | ----------- |
 | [IRCArt](https://github.com/ircart/ircart) | Massive collection of organized IRC art |
-| [MiRCART](https://mircart.org/?page_id=1882) | Art pack made by the [MiRCART](https://mircart.org/) crew |
+| [MiRCART](https://mircart.org/) | Art pack made by the [MiRCART](https://mircart.org/) crew |
 | [PP4L](http://wepump.in/ascii/) | Art pack made by the [PP4L](http://wepump.in/) crew |
 | [TrollASCII](https://github.com/jakkm3n/trollascii) | Giant mess of unorganized art |
 | [Volatile](https://git.volatile.bz/cgit/wowaname/ascii-art/) | Art pack containing other packs & some OC by [volatile](https://volatile.bz/) |
