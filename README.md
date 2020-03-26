@@ -121,6 +121,7 @@ UTF-8 is enabled by default on Weechat.
 | ---- | ----------- |
 | [a2m](https://git.trollforge.org/a2m/) | Convert ANSI art to IRC art |
 | [p2u](https://git.trollforge.org/p2u/) | Convert images to ANSI/IRC art |
+| [irc2ansi](https://github.com/timb/irc2ansi) | Convert IRC art to ANSI art for your terminal |
 | [irc2html](https://ircart.github.io/irc2html/) | Convert IRC art to HTML |
 | [img2term](https://github.com/wwared/img2term) | Output images in your terminal |
 | [RuinIRC99](https://ruinirc99.firebaseapp.com/) | Convert images to IRC art from your browser |
