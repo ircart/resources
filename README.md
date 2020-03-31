@@ -96,6 +96,7 @@ UTF-8 is enabled by default on Weechat.
 | Pack | Description |
 | ---- | ----------- |
 | [ASCII Art Farts](http://www.asciiartfarts.com) | Big collection of shitty ASCII only art |
+| [Unicode Art](http://xahlee.info/comp/unicode_ascii_art.html) | Small collection of nice looking unicode art |
 
 ###### ANSI Art Packs
 | Pack | Description |
