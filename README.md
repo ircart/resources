@@ -136,6 +136,7 @@ UTF-8 is enabled by default on Weechat.
 | [asciibird](https://github.com/hughbord/asciibird) | New-school IRC ASCII Editor |
 | [asciipumper](https://github.com/ircart/asciipumper) | MS-Paint style program to draw IRC art *(archived)* |
 | [asciishade](https://github.com/mikedesu/asciishade) | Command line program to draw IRC Ar |
+| [durdraw](https://github.com/cmang/durdraw) | Command line program to draw ANSI art |
 | [IRC-Paint](https://github.com/wwared/IRC-Paint) | MS-Paint style program to draw IRC art *(archived)* |
 | [PabloDraw](http://picoe.ca/products/pablodraw/) | Old school ANSI art drawing tool |
 | [Roar](https://github.com/lalbornoz/roar) | Editor & Tools |
