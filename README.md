@@ -109,6 +109,7 @@ UTF-8 is enabled by default on Weechat.
 ###### IRC Art Packs
 | Pack | Description |
 | ---- | ----------- |
+| [asciiart](https://github.com/birdneststream/asciiart) | IRC Art collection maintained by jewbird |
 | [IRCArt](https://github.com/ircart/ircart) | Massive collection of organized IRC art |
 | [MiRCART](https://mircart.org/) | Art pack made by the [MiRCART](https://mircart.org/) crew |
 | [PP4L](http://wepump.in/ascii/) | Art pack made by the [PP4L](http://wepump.in/) crew |
