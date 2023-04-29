@@ -135,6 +135,7 @@ UTF-8 is enabled by default on Weechat.
 | [ACiDDraw](http://www.acid.org/apps/apps.html) | Old school ANSI art drawing tool |
 | [asciibird](https://github.com/hughbord/asciibird) | New-school IRC ASCII Editor |
 | [asciipumper](https://github.com/ircart/asciipumper) | MS-Paint style program to draw IRC art *(archived)* |
+| [asciishade](https://github.com/mikedesu/asciishade) | Command line program to draw IRC Ar |
 | [IRC-Paint](https://github.com/wwared/IRC-Paint) | MS-Paint style program to draw IRC art *(archived)* |
 | [PabloDraw](http://picoe.ca/products/pablodraw/) | Old school ANSI art drawing tool |
 | [Roar](https://github.com/lalbornoz/roar) | Editor & Tools |
@@ -154,6 +155,7 @@ UTF-8 is enabled by default on Weechat.
 | ---- | ----------- |
 | [UniColExport](https://github.com/klopsi/unicolexport) | Unicode block-character graphic exporter for [GIMP](https://www.gimp.org/) |
 | [Limnoria ASCII Plugins](https://github.com/oddluck/limnoria-plugins/tree/master/ASCII) | ASCII plugins for [Limnoria](https://github.com/ProgVal/Limnoria) |
+| [lolbot](https://github.com/knivey/lolbot) | IRC bot with lots of ASCII features |
 | [MiRCARTools](https://github.com/lalbornoz/MiRCARTools) | IRC art editor & tools |
 | [Scroll](https://github.com/ircart/scroll) | Very functional IRC bot to play art & more |
 | [TDFiglet](https://git.trollforge.org/tdfiglet/) | Convert text to [TheDraw](https://www.roysac.com/thedrawfonts-tdf.html) ANSI fonts |
