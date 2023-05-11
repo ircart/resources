@@ -2,6 +2,8 @@
 
 The term "IRC Art" is used to refer to text based visual art found on IRC. The art found on IRC has evolved past using just ASCII charcters. IRC clients today understand a number of special formatting characters. These characters allow IRC software to send and receive colors and formatting codes such as bold, italics, underline and others. This allows more possibilites now for creating ASCII/ANSI art for IRC. While it is possible to have support for 99 or even 256 colors, most art made for IRC follows the 16 color standard.
 
+![](./screens/acid.png)
+
 ## Table of Contents
 - [Setup](#setup)
   - [Linux](#linux)
@@ -132,14 +134,15 @@ UTF-8 is enabled by default on Weechat.
 ###### Software
 | Name | Description |
 | ---- | ----------- |
-| [ACiDDraw](http://www.acid.org/apps/apps.html) | Old school ANSI art drawing tool |
-| [asciibird](https://github.com/hughbord/asciibird) | New-school IRC ASCII Editor |
+| [ACiDDraw](http://www.acid.org/apps/apps.html)       | Old school ANSI art drawing tool |
+| [asciibird](https://github.com/hughbord/asciibird)   | New-school IRC ASCII Editor |
 | [asciipumper](https://github.com/ircart/asciipumper) | MS-Paint style program to draw IRC art *(archived)* |
 | [asciishade](https://github.com/mikedesu/asciishade) | Command line program to draw IRC Ar |
-| [durdraw](https://github.com/cmang/durdraw) | Command line program to draw ANSI art |
-| [IRC-Paint](https://github.com/wwared/IRC-Paint) | MS-Paint style program to draw IRC art *(archived)* |
-| [PabloDraw](http://picoe.ca/products/pablodraw/) | Old school ANSI art drawing tool |
-| [Roar](https://github.com/lalbornoz/roar) | Editor & Tools |
+| [durdraw](https://github.com/cmang/durdraw)          | Command line program to draw ANSI art |
+| [IRC-Paint](https://github.com/wwared/IRC-Paint)     | MS-Paint style program to draw IRC art *(archived)* |
+| [moebius](https://github.com/blocktronics/moebius)   | ANSI drawing tool from [blocktronics](https://blocktronics.org/) |
+| [PabloDraw](http://picoe.ca/products/pablodraw/)     | Old school ANSI art drawing tool |
+| [Roar](https://github.com/lalbornoz/roar)            | Editor & Tools |
 
 ###### Web Based
 | Name | Description |
