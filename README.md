@@ -1,4 +1,4 @@
-<h1 align="center"># IRC Art Resources</h1>
+<h1 align="center">IRC ART</h1>
 
 <p align="center">
 The term "IRC Art" is used to refer to text based visual art found on IRC. The art found on IRC has evolved past using just ASCII charcters. IRC clients today understand a number of special formatting characters. These characters allow IRC software to send and receive colors and formatting codes such as bold, italics, underline and others. This allows more possibilites now for creating ASCII/ANSI art for IRC. While it is possible to have support for 99 or even 256 colors, most art made for IRC follows the 16 color standard.
@@ -10,8 +10,6 @@ The term "IRC Art" is used to refer to text based visual art found on IRC. The a
 
 ## Table of Contents
 - [Setup](#setup)
-  - [Linux](#linux)
-  - [Client](#client)
 - [Resources](#resources)
   - [Art Packs](#art-packs)
   - [Convert](#convert)
@@ -25,73 +23,10 @@ The term "IRC Art" is used to refer to text based visual art found on IRC. The a
 ***
 
 ### Setup
-In order to properly execute playing art in an IRC channel, it is generally agreed that you want to pump the art as quickly as possible. That means, any client or server side throttling can make pumping large art heavily delayed or interrepted. You also want to make sure you have full support for viewing UTF-8 unicode characters.
+In order to view IRC art propely, a **monospace** font is required to be used for your terminal or graphical client, aswell as full support for viewing UTF-8 unicode characters. Make sure your systems locale is set properly & that your client is setup for UTF-8 support.
 
-#### Linux
-Execute the following commands:
-```
-echo "LANG=en_US.UTF-8" > /etc/locale.conf
-echo "en_US.UTF-8 UTF-8" > /etc/locale.gen
-locale-gen
-```
+It is also recommended that you remove or shorten any client-side message throttling, globally or per-network. See your IRC clients documentation on how to modify the message sending rates.
 
-Place the following lines in your ~/.bashrc file:
-```
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
-export LANGUAGE=en_US.UTF-8
-```
-
-Now just run `source ~/.bashrc` to make the changes take affect.
-
-#### Client
-<details>
-   <summary>IRSSI</summary>
-  
-##### UTF-8
-```
-/set term_charset utf-8
-/set recode_autodetect_utf8 ON
-/set recode_fallback ISO-8859-15
-/set recode_out_default_charset ISO-8859-15
-/set recode_transliterate ON
-/set recode ON
-```
-
-##### Flooding
-###### Global
-```
-/set cmd_queue_speed 0msec
-/set cmds_max_at_once 0
-```
-
-###### Network Specific
-```
-/network add -cmdmax 0 -cmdspeed 0msec <network_name>
-```
-</details>
-
-<details>
-   <summary>WeeChat</summary>
-  
-##### UTF-8
-UTF-8 is enabled by default on Weechat.
-
-##### Flooding
-###### Global
-```
-/set irc.server_default.anti_flood_prio_high 0
-/set irc.server_default.anti_flood_prio_low 0
-```
-
-###### Network Specific
-```
-/set irc.server.<network_name>.anti_flood_prio_high 0
-/set irc.server.<network_name>.anti_flood_prio_low 0
-```
-
-**Note:** Change 0 to 2 for safe flood rates on networks like EFNet.
-</details>
 
 ***
 
