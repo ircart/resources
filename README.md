@@ -1,11 +1,11 @@
 <h1 align="center">IRC ART</h1>
 
 <p align="center">
-The term "IRC Art" is used to refer to text based visual art found on IRC. The art found on IRC has evolved past using just ASCII charcters. IRC clients today understand a number of special formatting characters. These characters allow IRC software to send and receive colors and formatting codes such as bold, italics, underline and others. This allows more possibilites now for creating ASCII/ANSI art for IRC. While it is possible to have support for 99 or even 256 colors, most art made for IRC follows the 16 color standard.
+	<img src=".screens/acid.png"/>
 </p>
 
 <p align="center">
-	<img src=".screens/acid.png"/>
+The term "IRC Art" is used to refer to text based visual art found on IRC. The art found on IRC has evolved past using just ASCII charcters. IRC clients today understand a number of special formatting characters. These characters allow IRC software to send and receive colors and formatting codes such as bold, italics, underline and others. This allows more possibilites now for creating ASCII/ANSI art for IRC. While it is possible to have support for 99 or even 256 colors, most art made for IRC follows the 16 color standard.
 </p>
 
 ## Table of Contents
@@ -26,7 +26,6 @@ The term "IRC Art" is used to refer to text based visual art found on IRC. The a
 In order to view IRC art propely, a **monospace** font is required to be used for your terminal or graphical client, aswell as full support for viewing UTF-8 unicode characters. Make sure your systems locale is set properly & that your client is setup for UTF-8 support.
 
 It is also recommended that you remove or shorten any client-side message throttling, globally or per-network. See your IRC clients documentation on how to modify the message sending rates.
-
 
 ***
 
@@ -51,7 +50,7 @@ It is also recommended that you remove or shorten any client-side message thrott
 | Pack                                                         | Description                                                                   |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------- |
 | [asciiart](https://github.com/birdneststream/asciiart)       | IRC Art collection maintained by jewbird                                      |
-| [IRCArt](https://github.com/ircart/ircart)                   | Massive collection of organized IRC art                                       |
+| [IRCArt](https://github.com/ircart/ircart)                   | Massive collection of organized IRC art *(contains art from all art packs)*   |
 | [MiRCART](https://mircart.org/)                              | Art pack made by the [MiRCART](https://mircart.org/) crew                     |
 | [PP4L](http://wepump.in/ascii/)                              | Art pack made by the [PP4L](http://wepump.in/) crew                           |
 | [TrollASCII](https://github.com/jakkm3n/trollascii)          | Giant mess of unorganized art                                                 |
