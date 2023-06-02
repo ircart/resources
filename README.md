@@ -62,7 +62,7 @@ It is also recommended that you remove or shorten any client-side message thrott
 | Name                                            | Description                                                                                                    |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [a2m](https://github.com/tat3r/a2m)             | Convert ANSI art to IRC art    *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/a2m))* |
-| [p2u](https://git.trollforge.org/bwu/)          | Convert images to braille art  *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/bwu))* |
+| [bwu](https://git.trollforge.org/bwu/)          | Convert images to braille art  *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/bwu))* |
 | [p2u](https://git.trollforge.org/p2u/)          | Convert images to ANSI/IRC art *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/p2u))* |
 | [irc2ansi](https://github.com/timb/irc2ansi)    | Convert IRC art to ANSI art for your terminal                                                                  |
 | [irc2html](https://ircart.github.io/irc2html/)  | Convert IRC art to HTML                                                                                        |
@@ -101,7 +101,7 @@ It is also recommended that you remove or shorten any client-side message thrott
 | [lolbot](https://github.com/knivey/lolbot)                                              | IRC bot with lots of ASCII features                                                |
 | [MiRCARTools](https://github.com/lalbornoz/MiRCARTools)                                 | IRC art editor & tools                                                             |
 | [Scroll](https://github.com/ircart/scroll)                                              | Very functional IRC bot to play art & more                                         |
-| [TDFiglet](https://git.trollforge.org/tdfiglet/)                                        | Convert text to [TheDraw](https://www.roysac.com/thedrawfonts-tdf.html) ANSI fonts |
+| [TDFiglet](https://github.com/tat3r/tdfiglet)                                           | Convert text to [TheDraw](https://www.roysac.com/thedrawfonts-tdf.html) ANSI fonts |
 
 ***
 
