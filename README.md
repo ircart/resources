@@ -60,14 +60,15 @@ It is also recommended that you remove or shorten any client-side message thrott
 **Note:** The [IRCArt](https://github.com/ircart/ircart) repository listed above contains all the art from the other packs, has been heavily organized, and is constantly being updated with new art.
 
 #### Convert
-| Name                                            | Description                                   |
-| ----------------------------------------------- | --------------------------------------------- |
-| [a2m](https://github.com/tat3r/a2m)             | Convert ANSI art to IRC art                   |
-| [p2u](https://git.trollforge.org/p2u/)          | Convert images to ANSI/IRC art                |
-| [irc2ansi](https://github.com/timb/irc2ansi)    | Convert IRC art to ANSI art for your terminal |
-| [irc2html](https://ircart.github.io/irc2html/)  | Convert IRC art to HTML                       |
-| [img2term](https://github.com/wwared/img2term)  | Output images in your terminal                |
-| [RuinIRC99](https://ruinirc99.firebaseapp.com/) | Convert images to IRC art from your browser   |
+| Name                                            | Description                                                                                                    |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [a2m](https://github.com/tat3r/a2m)             | Convert ANSI art to IRC art    *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/a2m))* |
+| [p2u](https://git.trollforge.org/bwu/)          | Convert images to braille art  *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/bwu))* |
+| [p2u](https://git.trollforge.org/p2u/)          | Convert images to ANSI/IRC art *([mirror](https://github.com/internet-relay-chat/random/tree/master/art/p2u))* |
+| [irc2ansi](https://github.com/timb/irc2ansi)    | Convert IRC art to ANSI art for your terminal                                                                  |
+| [irc2html](https://ircart.github.io/irc2html/)  | Convert IRC art to HTML                                                                                        |
+| [img2term](https://github.com/wwared/img2term)  | Output images in your terminal                                                                                 |
+| [RuinIRC99](https://ruinirc99.firebaseapp.com/) | Convert images to IRC art from your browser                                                                    |
 
 #### Drawing
 ###### Software
