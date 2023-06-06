@@ -91,6 +91,7 @@ It is also recommended that you remove or shorten any client-side message thrott
 | [asciimaker](https://ircart.github.io/asciimaker/)  | Draw IRC art from your browser                 |
 | [ansiedit](https://github.com/andyherbert/ansiedit) | Network-enabled web based ANSi art application |
 | [bashfill](https://max.io/bash.html)                | Draw art for your terminal                     |
+| [kaeditor](https://www.roarie.cat/kaeditor/)        | Draw IRC art from your browser                 |
 | [FSymbols Draw](https://fsymbols.com/draw/)         | Draw unicode block art in your browser         |
 
 #### Other
