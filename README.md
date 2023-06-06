@@ -119,5 +119,8 @@ It is also recommended that you remove or shorten any client-side message thrott
 | ------------ | ----------------------------------- |
 | **##ascii**  | [Freenode](https://freenode.net/)   |
 | **#ascii**   | [EFNet](http://efnet.org/)          |
+| **#ircart**  | [EFNet](http://efnet.org/)          |
 | **#mircart** | [EFNet](http://efnet.org/)          |
 | **#scroll**  | [SuperNETs](https://supernets.org/) |
+
+Send us an [email](mailto://acid.vegas@acid.vegas) if you have an IRC channel dedicated to art!
